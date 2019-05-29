@@ -1,0 +1,2 @@
+# Andrew_Ng_machine_learning
+the notes of Andrew_Ng_machine_learning
